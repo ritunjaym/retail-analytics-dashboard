@@ -23,7 +23,25 @@ The project highlights:
 
 ## 🚀 Live Demo
 
-▶️ **[Launch Dashboard](https://retail-analytics-dashboard.streamlit.app/)**
+▶️ **[Launch Dashboard](https://del-dash-ritunjay.streamlit.app/)**
+
+---
+
+## 🧭 How to Use the Dashboard
+
+**Filters:**  
+Use the sidebar to filter by **Region**, **Category**, **Sales Range**, and **Order Date** to customize the data view.
+
+**Guided Tour:**  
+Enable the "📖 Guided Tour" checkbox in the sidebar for a step-by-step walkthrough of all dashboard sections.
+
+**Special Features:**
+- 📊 Dual-Axis chart comparing **Sales vs Profit** by Category  
+- 🎛️ What-If Simulator to predict profit under different scenarios  
+- 🧾 Export filtered data to **CSV** or **Excel**  
+- 🌲 Interactive Treemap, 🔗 Correlation Heatmap, and 📏 dynamic Benchmark Comparisons  
+
+All visualizations are fully interactive and respond in real-time to your filters.
 
 ---
 
