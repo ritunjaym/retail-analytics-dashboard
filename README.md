@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-yellow?logo=python)
 
-# 📊 SuperStore Dashboard — Diagnostics & Performance Analytics
+# 📊 Retail Analytics Dashboard — Diagnostics & Performance Insights
 
 An interactive analytics dashboard built using **Streamlit** and **Plotly**, designed to evaluate and explore retail sales, profit, discount trends, and regional performance using the SuperStore dataset.
 
@@ -59,7 +59,7 @@ The project highlights:
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/ritunjaym/del-dash.git
-cd del-dash
+git clone https://github.com/ritunjaym/retail-analytics-dashboard.git
+cd retail-analytics-dashboard
 pip install -r requirements.txt
 streamlit run app.py
