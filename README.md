@@ -23,7 +23,7 @@ The project highlights:
 
 ## 🚀 Live Demo
 
-▶️ **[Launch Dashboard](https://del-dash-ritunjay.streamlit.app/)**
+▶️ **[Launch Dashboard](https://retail-analytics-dashboard.streamlit.app/)**
 
 ---
 
